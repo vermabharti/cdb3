@@ -1,0 +1,48 @@
+
+
+
+[
+    {
+        "menuname":"Maternal Healh Dashboard",
+        "url":"https://cdashboard.dcservices.in/HISUtilities/dashboard/dashBoardACTION.cnt?groupId=Mzk=&dashboardFor=Q0VOVFJBTCBEQVNIQk9BUkQ=&hospitalCode=998&seatId=10001&isGlobal=1"
+    },
+    {
+        "menuname":"Maternal Health Edl Detail",
+        "url":"https://cdashboard.dcservices.in/HISUtilities/dashboard/dashBoardACTION.cnt?groupId=NDA=&dashboardFor=Q0VOVFJBTCBEQVNIQk9BUkQ=&hospitalCode=998&seatId=10001&isGlobal=1"
+    },
+    {
+        "menuname":"Stock Detail of Maternal Health",
+        "url":"https://cdashboard.dcservices.in/HISUtilities/dashboard/dashBoardACTION.cnt?groupId=Mzg=&dashboardFor=Q0VOVFJBTCBEQVNIQk9BUkQ=&hospitalCode=998&seatId=10001&isGlobal=1"
+    },
+    {
+        "menuname":"Rate Contract details for Drugs, with name containing iron or ifa",
+        "url":"https://cdashboard.dcservices.in/HISUtilities/dashboard/dashBoardACTION.cnt?groupId=NDQ=&dashboardFor=Q0VOVFJBTCBEQVNIQk9BUkQ=&hospitalCode=998&seatId=10001&isGlobal=1"
+    }
+]
+
+
+
+
+[
+    {
+        "icon":"briefcaseMedical",
+        "color":"f3eac2",
+        "name":"Maternal Health Edl Detail",
+        "url":"https://cdashboard.dcservices.in/HISUtilities/dashboard/dashBoardACTION.cnt?groupId=NDA=&dashboardFor=Q0VOVFJBTCBEQVNIQk9BUkQ=&hospitalCode=998&seatId=10001&isGlobal=1"
+    },
+    {
+        "icon":"chartBar",
+        "color":"a2d5f2",
+        "name":"Stock Detail of Maternal Health",
+        "url":"https://cdashboard.dcservices.in/HISUtilities/dashboard/dashBoardACTION.cnt?groupId=Mzg=&dashboardFor=Q0VOVFJBTCBEQVNIQk9BUkQ=&hospitalCode=998&seatId=10001&isGlobal=1"
+    },
+    {
+        "icon":"chartBar",
+        "color":"c3aed6",
+        "name":"Rate Contract details for Drugs, with name containing iron or ifa",
+        "url":"https://cdashboard.dcservices.in/HISUtilities/dashboard/dashBoardACTION.cnt?groupId=NDQ=&dashboardFor=Q0VOVFJBTCBEQVNIQk9BUkQ=&hospitalCode=998&seatId=10001&isGlobal=1"
+    },
+]
+
+ 
+
